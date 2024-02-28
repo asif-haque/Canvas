@@ -1,0 +1,11 @@
+textarea {
+  border: none;
+  background-color: transparent;
+}
+textarea:focus {
+  outline: dashed 1px;
+}
+.app {
+  display: flex;
+  justify-content: center;
+}
